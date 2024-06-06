@@ -1,0 +1,54 @@
+{
+  "ActiveSheetName": "页面1",
+  "CommandDialogSettings": {},
+  "DialogSettings": {},
+  "LocalSheetSettings": {
+    "页面1": {
+      "IsOpen": true,
+      "Selections": [
+        "9,21,1,1"
+      ]
+    }
+  },
+  "PageFolderWeights": {
+    "Pages\\内建页面": 1,
+    "FGC_登录": 1,
+    "FGC_401页面": 2,
+    "FGC_修改密码": 3,
+    "FGC_连接已断开": 4,
+    "FGC_忘记密码": 5,
+    "FGC_邮件订阅": 6,
+    "FGC_维护中": 7,
+    "FGC_两步验证_扫码页面": 8,
+    "FGC_两步验证_验证页面": 9,
+    "FGC_修改用户信息": 10,
+    "FGC_重置密码": 11,
+    "FGC_重置密码发送邮件成功": 12,
+    "Pages\\内建手机页面": 2,
+    "FGC_登录_手机版": 1,
+    "FGC_401页面_手机版": 2,
+    "FGC_修改密码_手机版": 3,
+    "FGC_连接已断开_手机版": 4,
+    "FGC_忘记密码_手机版": 5,
+    "FGC_邮件订阅_手机版": 6,
+    "FGC_维护中_手机版": 7,
+    "FGC_两步验证_扫码页面_手机版": 8,
+    "FGC_两步验证_验证页面_手机版": 9,
+    "FGC_修改用户信息_手机版": 10,
+    "FGC_重置密码发送邮件成功_手机版": 11,
+    "FGC_重置密码_手机版": 12,
+    "页面1": 3
+  },
+  "SuppressedWarnings": [],
+  "MasterPageFolderWeights": {
+    "FGC_母版页": 1
+  },
+  "ImageFolderWeights": {
+    "image\\内置图片": 1,
+    "fgc_built-in-page-401.png": 1,
+    "fgc_built-in-page-maintained.png": 2,
+    "fgc_built_in_page_disconnected.png": 3,
+    "fgc_loading.gif": 4,
+    "fgc_logo_dark.png": 5
+  }
+}
